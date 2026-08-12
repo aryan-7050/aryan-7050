@@ -1,194 +1,148 @@
-# 👨‍💻 ARYAN PATIL
+# 💻 ARYAN PATIL
 
-### B.Tech Computer Science Student | Full Stack Developer
+### B.Tech CSE Student | Full Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D9BF0&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20There!&fontSize=30&fontAlign=50&fontAlignY=30" />
 </div>
 
 ---
 
-## 📌 About Me
+## 👋 About Me
 
-🎓 **B.Tech Computer Science** | Dr. D.Y. Patil College of Engineering, Kolhapur  
-📚 **CGPA:** 8.00/10 | Batch: 2023-2027  
-💻 Passionate about building full-stack web applications and solving real-world problems  
-🔭 Currently exploring **AI/ML** and **System Design**  
-🎯 Goal: To become a skilled Full Stack Developer
+I'm a passionate **B.Tech Computer Science** student at Dr. D.Y. Patil College of Engineering, Kolhapur, with a strong foundation in full-stack development. I love building web applications that solve real-world problems and continuously exploring new technologies.
+
+- 🎓 **Education:** B.Tech CSE | CGPA: 8.00/10
+- 📅 **Batch:** 2023-2027
+- 💡 **Interests:** Web Development, System Design, AI/ML
+- 🌱 **Currently Learning:** Advanced JavaScript & System Architecture
+- 🎯 **2024 Goals:** Contribute to open source & build scalable applications
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ My Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🎨 Frontend
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### ⚡ Backend
+<div>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+### 🗄️ Database
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### 🔧 Tools
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| **Frontend Developer Intern** | Anvistar, Pune | June 2026 - July 2026 |
+| **Full Stack Developer Intern** | Zidio Development, Bengaluru | July 2026 - Sept 2026 |
 
 ---
 
 ## 🚀 Projects
 
 ### 🎪 Eventora - Event Management Platform
-> **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
-
-Full-stack event management platform with:
-- 🔐 User authentication & authorization
-- 📅 Event creation and management
-- 💳 Responsive UI design
-- 🌐 RESTful APIs
-- 📊 Database integration
-
-**[🔗 Live Demo](#)** | **[📂 GitHub](#)**
-
----
+```
+MERN Stack | Authentication | REST APIs
+```
+- Built full-stack event management platform
+- Implemented user authentication & authorization
+- Created responsive UI with React.js
 
 ### 🏥 MediPro - Client Project
-> **Tech Stack:** HTML, CSS, JavaScript
-
-Responsive web application developed for a client:
-- 🎨 User-friendly interfaces
-- 📱 Responsive layouts
-- ⚡ Interactive frontend functionality
-- ✅ Client requirement implementation
-
-**[📂 GitHub](#)**
-
----
+```
+HTML | CSS | JavaScript
+```
+- Developed responsive web application for client
+- Implemented user-friendly interfaces
+- Focused on client requirements & feedback
 
 ### 🚌 Public Bus Tracking System
-> **Tech Stack:** MERN, Socket.IO, Leaflet
-
-Real-time bus tracking system (Group Project):
-- 📍 Live bus tracking with Leaflet maps
-- 🔄 Real-time updates using Socket.IO
-- 🗺️ Interactive route management
-- ⏰ Estimated arrival time calculation
-- 👥 Collaborative team development
-
-**[📂 GitHub](#)**
-
----
+```
+MERN | Socket.IO | Leaflet
+```
+- Real-time bus tracking with live updates
+- Interactive maps using Leaflet
+- Team collaboration project
 
 ### 🤖 AI Finance Management System
-> **Tech Stack:** TypeScript, AI
-
-AI-powered finance management application:
-- 💰 Expense tracking
-- 📊 Financial insights
-- 🤖 Intelligent assistance
-- 📈 Personal financial management
-
-**[📂 GitHub](#)**
+```
+TypeScript | AI
+```
+- AI-powered finance management
+- Expense tracking & financial insights
+- Intelligent assistance for users
 
 ---
 
-## 💼 Experience
+## 📜 Certificates
 
-### Full Stack Developer Intern
-**Zidio Development** | Bengaluru, Karnataka  
-*July 2026 - September 2026*
-
-- 🚀 Developed web applications using **MERN Stack**
-- ⚛️ Created responsive UIs with React.js
-- 🔌 Built RESTful APIs with Node.js & Express.js
-- 📊 Integrated MongoDB for data management
-
----
-
-### Frontend Developer Intern
-**Anvistar** | Pune, Maharashtra  
-*June 2026 - July 2026*
-
-- 🎨 Developed responsive web interfaces using HTML, CSS, JavaScript, React.js
-- 📱 Converted designs into responsive web pages
-- 🐛 Identified and resolved frontend issues
-- ⚡ Improved performance and user experience
-
----
-
-## 📜 Certifications
-
-- 🏅 **MERN Stack Development** - Apna College
-- 🤖 **GenAI Powered Data Analytics** - Job Simulation
-- 📊 **Deloitte Data Analytics** - Virtual Experience Program
-
----
-
-## 🏆 Achievements
-
-- 📚 **Academic Excellence:** Maintained 8.0/10 CGPA
-- 💻 Active participation in software development
-- 🔥 Completed multiple full-stack projects
-- 🌟 Regular contributor to coding platforms
+- 🏅 MERN Stack Development - Apna College
+- 🤖 GenAI Powered Data Analytics - Job Simulation
+- 📊 Deloitte Data Analytics - Virtual Experience Program
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryan-7050&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-7050&layout=compact&langs_count=7&theme=radical&hide_border=true" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=aryan-7050&show_icons=true&theme=dark&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-7050&layout=compact&theme=dark&hide_border=true" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7050&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📱 Connect
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7050&theme=radical&hide_border=true" />
+  <a href="https://aryan7050.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-patil-47b48726b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aryan-7050">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:aryanp7050@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 📱 Connect With Me
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://aryan7050.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-patil-47b48726b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan-7050)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aryan7050/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanp7050@gmail.com)
-
-</div>
-
----
-
-## 📈 Coding Profiles
-
-<div align="center">
-  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/aryan7050/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/aryan-7050)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🎯 "Building solutions, one line of code at a time" 🚀
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aryan-7050&color=blue)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
