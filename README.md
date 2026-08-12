@@ -1,185 +1,202 @@
-# 👋 Hi, I'm Aryan Patil
+# ARYAN PATIL
 
-### Full-Stack Developer | MERN | AI Integration | Java & DSA
+### Full-Stack Developer · MERN · AI Engineering
 
-I build practical web applications with a focus on **clean UI, scalable backend systems, real-time features, and AI-powered functionality**.
+> I turn ideas into reliable, user-focused web applications.
 
-Currently pursuing **B.Tech in Computer Science & Engineering** and actively preparing for software development opportunities.
+I'm a Computer Science & Engineering student focused on building **full-stack applications, real-time systems, and AI-powered products**.
+
+My current focus is writing better code, understanding system architecture, and turning academic projects into production-oriented applications.
 
 ---
 
-## ⚡ What I Build
+## ABOUT
 
 ```text
-Frontend       → React.js · Next.js · TypeScript · Tailwind CSS
-Backend        → Node.js · Express.js · REST APIs
-Database       → MongoDB · PostgreSQL · MySQL
-Programming    → Java · JavaScript · TypeScript · Python
-AI / Backend   → FastAPI · LangChain · Gemini / AI APIs
-Tools          → Git · GitHub · Docker · Postman · Vercel · Render
+Role        Full-Stack Developer
+Primary     MERN Stack
+Languages   Java · JavaScript · TypeScript · Python · SQL
+Interests   Web Development · AI · Real-Time Systems
+Currently   DSA with Java · Next.js · AI Integration
 ```
 
 ---
 
-## 🧩 Featured Work
+## ENGINEERING STACK
 
-### 🚌 Public Transport Tracking System
+**Frontend**
 
-A full-stack transportation platform designed for real-time bus tracking.
+`React.js` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
 
-**Highlights**
+**Backend**
 
-* Interactive map-based bus tracking
-* Real-time updates using Socket.IO
-* ETA calculation and route management
-* Leaflet-based map visualization
-* MERN backend architecture
-* AI assistant integration using FastAPI and LangChain
+`Node.js` `Express.js` `FastAPI` `REST APIs` `Socket.IO`
 
-**Tech:** `React` `Node.js` `Express` `MongoDB` `Socket.IO` `Leaflet` `FastAPI` `Python`
+**Data**
 
----
+`MongoDB` `PostgreSQL` `MySQL`
 
-### 💰 PaisaVedh
+**AI**
 
-A personal finance management application designed to organize and monitor financial activities.
+`Python` `LangChain` `Generative AI` `AI APIs`
 
-**Focus:** Expense management · Income tracking · Dashboard analytics · Secure APIs
+**Tools & Platforms**
 
-**Tech:** `MERN` `MongoDB` `React` `Node.js` `Express`
+`Git` `GitHub` `Docker` `Postman` `Vercel` `Render`
 
 ---
 
-### 🎫 Eventora
+## SELECTED ENGINEERING WORK
 
-A modern event management platform built to simplify event discovery and management.
+### 01 — Public Transport Intelligence
 
-**Focus:** Authentication · Event management · Responsive UI · REST APIs
+A real-time transportation platform designed around live bus tracking and intelligent ETA prediction.
 
-**Tech:** `React` `Node.js` `Express` `MongoDB`
+**Engineering work**
+
+* Real-time vehicle location updates
+* Interactive map-based tracking
+* Route management and path generation
+* ETA calculation
+* RESTful backend architecture
+* Socket.IO communication
+* AI assistant through a Python service
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Leaflet` `FastAPI` `Python`
 
 ---
 
-### 🛡️ Cyber Fraud Detection
+### 02 — PaisaVedh
 
-A web application focused on identifying and managing potentially fraudulent activities.
+A finance management platform focused on organizing financial data into a simple and usable dashboard experience.
 
-**Focus:** Data processing · Backend APIs · Detection workflow · User interface
+**Engineering work**
 
-**Tech:** `MERN` `Machine Learning / AI` `REST APIs`
+* Authentication
+* Financial record management
+* REST API integration
+* Database operations
+* Responsive dashboard interface
+
+`React` `Node.js` `Express` `MongoDB`
 
 ---
 
-## 🧠 Currently Improving
+### 03 — Eventora
+
+An event-focused web application built around a smooth user experience and structured backend services.
+
+**Engineering work**
+
+* User authentication
+* Event management
+* API-driven architecture
+* Responsive frontend
+* Database integration
+
+`MERN`
+
+---
+
+### 04 — Cyber Fraud Detection
+
+A web-based system focused on processing suspicious activity and presenting detection results through an accessible interface.
+
+**Engineering work**
+
+* Data processing
+* Detection workflow
+* Backend API integration
+* User-facing results
+* Full-stack architecture
+
+`React` `Node.js` `Express` `MongoDB` `AI`
+
+---
+
+## HOW I APPROACH DEVELOPMENT
 
 ```text
-01  Advanced Java & DSA
-02  React & Frontend Architecture
-03  Node.js & Backend Development
-04  System Design Fundamentals
-05  AI Integration with Web Applications
-06  Next.js & TypeScript
+Problem
+   ↓
+Understand the requirement
+   ↓
+Design the solution
+   ↓
+Build the system
+   ↓
+Test & debug
+   ↓
+Optimize
+   ↓
+Deploy
 ```
 
----
+I don't want to simply learn frameworks.
 
-## 📈 Developer Journey
-
-```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-React.js
-     ↓
-MERN Stack
-     ↓
-Real-Time Applications
-     ↓
-FastAPI + AI Integration
-     ↓
-Full-Stack Engineering
-```
+I want to understand **why a system works, how its components communicate, and how it can be improved.**
 
 ---
 
-## 💻 Coding Philosophy
+## CURRENTLY BUILDING
 
-> Build it → Understand it → Improve it → Ship it
+**→ Stronger DSA fundamentals with Java**
 
-I believe projects are one of the best ways to learn software engineering.
-Instead of only learning technologies theoretically, I try to use them to solve real problems.
+**→ Production-ready MERN applications**
+
+**→ AI features inside traditional web applications**
+
+**→ Better backend architecture**
+
+**→ Next.js + TypeScript applications**
 
 ---
 
-## 🛠️ My Developer Toolbox
+## DEVELOPMENT PRINCIPLES
+
+| Principle   | Approach                          |
+| ----------- | --------------------------------- |
+| Simplicity  | Prefer understandable solutions   |
+| Scalability | Design beyond the demo            |
+| Security    | Never treat user data casually    |
+| Performance | Measure before optimizing         |
+| UX          | Functionality should feel natural |
+| Learning    | Build → Break → Debug → Improve   |
+
+---
+
+## GITHUB
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,mysql,python,java,git,github,docker,postman,vercel" />
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-7050&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-7050&layout=compact&hide_border=true" width="40%"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## LET'S CONNECT
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryan-7050&show_icons=true&hide_border=true&rank_icon=github" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=aryan-7050&hide_border=true" />
-
-</p>
-
----
-
-## 🎯 2026 Goals
-
-* [x] Build full-stack MERN applications
-* [x] Work with REST APIs
-* [x] Build real-time applications
-* [x] Explore AI integration
-* [x] Learn FastAPI
-* [ ] Become stronger in DSA
-* [ ] Contribute to open-source projects
-* [ ] Secure a software development internship
-* [ ] Build production-level applications
-
----
-
-## 🌐 Find Me Online
-
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/aryan-7050">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://aryan7050.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in **software development, full-stack engineering, AI-powered applications, internships, and collaborative projects**.
-
-⭐ If you find one of my projects useful, feel free to explore the repository and leave a star.
+### `console.log("Keep building.");`
 
 ---
-
-<p align="center">
-
-### Thanks for visiting my profile! 🚀
-
-</p>
