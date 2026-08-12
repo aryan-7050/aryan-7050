@@ -1,148 +1,185 @@
-# 💻 ARYAN PATIL
+# 👋 Hi, I'm Aryan Patil
 
-### B.Tech CSE Student | Full Stack Developer
+### Full-Stack Developer | MERN | AI Integration | Java & DSA
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20There!&fontSize=30&fontAlign=50&fontAlignY=30" />
-</div>
+I build practical web applications with a focus on **clean UI, scalable backend systems, real-time features, and AI-powered functionality**.
 
----
-
-## 👋 About Me
-
-I'm a passionate **B.Tech Computer Science** student at Dr. D.Y. Patil College of Engineering, Kolhapur, with a strong foundation in full-stack development. I love building web applications that solve real-world problems and continuously exploring new technologies.
-
-- 🎓 **Education:** B.Tech CSE | CGPA: 8.00/10
-- 📅 **Batch:** 2023-2027
-- 💡 **Interests:** Web Development, System Design, AI/ML
-- 🌱 **Currently Learning:** Advanced JavaScript & System Architecture
-- 🎯 **2024 Goals:** Contribute to open source & build scalable applications
+Currently pursuing **B.Tech in Computer Science & Engineering** and actively preparing for software development opportunities.
 
 ---
 
-## 🛠️ My Tech Stack
+## ⚡ What I Build
 
-### 🎨 Frontend
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-### ⚡ Backend
-<div>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</div>
-
-### 🗄️ Database
-<div>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-### 🔧 Tools
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
+```text
+Frontend       → React.js · Next.js · TypeScript · Tailwind CSS
+Backend        → Node.js · Express.js · REST APIs
+Database       → MongoDB · PostgreSQL · MySQL
+Programming    → Java · JavaScript · TypeScript · Python
+AI / Backend   → FastAPI · LangChain · Gemini / AI APIs
+Tools          → Git · GitHub · Docker · Postman · Vercel · Render
+```
 
 ---
 
-## 💼 Experience
+## 🧩 Featured Work
 
-| Role | Company | Duration |
-|------|---------|----------|
-| **Frontend Developer Intern** | Anvistar, Pune | June 2026 - July 2026 |
-| **Full Stack Developer Intern** | Zidio Development, Bengaluru | July 2026 - Sept 2026 |
+### 🚌 Public Transport Tracking System
 
----
+A full-stack transportation platform designed for real-time bus tracking.
 
-## 🚀 Projects
+**Highlights**
 
-### 🎪 Eventora - Event Management Platform
-```
-MERN Stack | Authentication | REST APIs
-```
-- Built full-stack event management platform
-- Implemented user authentication & authorization
-- Created responsive UI with React.js
+* Interactive map-based bus tracking
+* Real-time updates using Socket.IO
+* ETA calculation and route management
+* Leaflet-based map visualization
+* MERN backend architecture
+* AI assistant integration using FastAPI and LangChain
 
-### 🏥 MediPro - Client Project
-```
-HTML | CSS | JavaScript
-```
-- Developed responsive web application for client
-- Implemented user-friendly interfaces
-- Focused on client requirements & feedback
-
-### 🚌 Public Bus Tracking System
-```
-MERN | Socket.IO | Leaflet
-```
-- Real-time bus tracking with live updates
-- Interactive maps using Leaflet
-- Team collaboration project
-
-### 🤖 AI Finance Management System
-```
-TypeScript | AI
-```
-- AI-powered finance management
-- Expense tracking & financial insights
-- Intelligent assistance for users
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Socket.IO` `Leaflet` `FastAPI` `Python`
 
 ---
 
-## 📜 Certificates
+### 💰 PaisaVedh
 
-- 🏅 MERN Stack Development - Apna College
-- 🤖 GenAI Powered Data Analytics - Job Simulation
-- 📊 Deloitte Data Analytics - Virtual Experience Program
+A personal finance management application designed to organize and monitor financial activities.
+
+**Focus:** Expense management · Income tracking · Dashboard analytics · Secure APIs
+
+**Tech:** `MERN` `MongoDB` `React` `Node.js` `Express`
 
 ---
 
-## 📊 GitHub Stats
+### 🎫 Eventora
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aryan-7050&show_icons=true&theme=dark&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-7050&layout=compact&theme=dark&hide_border=true" /></td>
-  </tr>
-</table>
+A modern event management platform built to simplify event discovery and management.
+
+**Focus:** Authentication · Event management · Responsive UI · REST APIs
+
+**Tech:** `React` `Node.js` `Express` `MongoDB`
+
+---
+
+### 🛡️ Cyber Fraud Detection
+
+A web application focused on identifying and managing potentially fraudulent activities.
+
+**Focus:** Data processing · Backend APIs · Detection workflow · User interface
+
+**Tech:** `MERN` `Machine Learning / AI` `REST APIs`
+
+---
+
+## 🧠 Currently Improving
+
+```text
+01  Advanced Java & DSA
+02  React & Frontend Architecture
+03  Node.js & Backend Development
+04  System Design Fundamentals
+05  AI Integration with Web Applications
+06  Next.js & TypeScript
+```
+
+---
+
+## 📈 Developer Journey
+
+```text
+HTML / CSS
+     ↓
+JavaScript
+     ↓
+React.js
+     ↓
+MERN Stack
+     ↓
+Real-Time Applications
+     ↓
+FastAPI + AI Integration
+     ↓
+Full-Stack Engineering
+```
+
+---
+
+## 💻 Coding Philosophy
+
+> Build it → Understand it → Improve it → Ship it
+
+I believe projects are one of the best ways to learn software engineering.
+Instead of only learning technologies theoretically, I try to use them to solve real problems.
+
+---
+
+## 🛠️ My Developer Toolbox
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-7050&theme=dark&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,mysql,python,java,git,github,docker,postman,vercel" />
+
 </p>
 
 ---
 
-## 📱 Connect
+## 📊 GitHub Activity
 
-<div align="center">
-  <a href="https://aryan7050.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-patil-47b48726b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/aryan-7050">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:aryanp7050@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-7050&show_icons=true&hide_border=true&rank_icon=github" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=aryan-7050&hide_border=true" />
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* [x] Build full-stack MERN applications
+* [x] Work with REST APIs
+* [x] Build real-time applications
+* [x] Explore AI integration
+* [x] Learn FastAPI
+* [ ] Become stronger in DSA
+* [ ] Contribute to open-source projects
+* [ ] Secure a software development internship
+* [ ] Build production-level applications
+
+---
+
+## 🌐 Find Me Online
+
+<p align="center">
+
+<a href="https://github.com/aryan-7050">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://aryan7050.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **software development, full-stack engineering, AI-powered applications, internships, and collaborative projects**.
+
+⭐ If you find one of my projects useful, feel free to explore the repository and leave a star.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+### Thanks for visiting my profile! 🚀
+
 </p>
