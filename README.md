@@ -2,253 +2,258 @@
 
 # ARYAN PATIL
 
-### Full-Stack Developer crafting scalable web applications, real-time systems & AI-powered solutions.
+### Full-Stack Developer · MERN · AI · Backend Engineering
 
-</div>
-
----
-
-## Projects
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 🚌 AI Smart Bus Tracker
-
-A real-time public transportation platform with live bus tracking, route management, ETA prediction and an AI-powered assistant.
+Building modern web applications with scalable frontend, backend and AI technologies.
 
 <br>
-
-**Stack:**
-
-MERN · FastAPI · Python · LangChain · Socket.IO · Leaflet
-
-<br>
-
-<a href="YOUR_BUS_TRACKER_LIVE_LINK">Live Demo</a>
-&nbsp; | &nbsp;
-<a href="YOUR_BUS_TRACKER_GITHUB_LINK">GitHub</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 💰 PaisaVedh
-
-A full-stack personal finance platform designed to manage income, expenses and financial activities through an intuitive dashboard.
-
-<br>
-
-**Stack:**
-
-React · Node.js · Express · MongoDB
-
-<br>
-
-<a href="YOUR_PAISAVEDH_LIVE_LINK">Live Demo</a>
-&nbsp; | &nbsp;
-<a href="YOUR_PAISAVEDH_GITHUB_LINK">GitHub</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🎫 Eventora
-
-A modern event management application for discovering, organizing and managing events with a responsive user experience.
-
-<br>
-
-**Stack:**
-
-MERN · REST API · JWT · MongoDB
-
-<br>
-
-<a href="YOUR_EVENTORA_LIVE_LINK">Live Demo</a>
-&nbsp; | &nbsp;
-<a href="YOUR_EVENTORA_GITHUB_LINK">GitHub</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🛡️ Cyber Fraud Detection
-
-A full-stack application focused on identifying suspicious activities and presenting fraud detection results through a user-friendly interface.
-
-<br>
-
-**Stack:**
-
-MERN · Python · AI · REST APIs
-
-<br>
-
-<a href="YOUR_FRAUD_LIVE_LINK">Live Demo</a>
-&nbsp; | &nbsp;
-<a href="YOUR_FRAUD_GITHUB_LINK">GitHub</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🏥 MediPro
-
-A medical inventory and billing management system for handling medicine batches, stock quantities, pricing and PDF generation.
-
-<br>
-
-**Stack:**
-
-React · Node.js · Express · MongoDB · PDF
-
-<br>
-
-<a href="YOUR_MEDIPRO_LIVE_LINK">Live Demo</a>
-&nbsp; | &nbsp;
-<a href="YOUR_MEDIPRO_GITHUB_LINK">GitHub</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 AI Interview Platform
-
-An AI-powered interview application combining web technologies with intelligent interview assistance and automated evaluation.
-
-<br>
-
-**Stack:**
-
-MERN · FastAPI · Python · AI · WebRTC
-
-<br>
-
-<a href="YOUR_AI_INTERVIEW_LIVE_LINK">Live Demo</a>
-&nbsp; | &nbsp;
-<a href="YOUR_AI_INTERVIEW_GITHUB_LINK">GitHub</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Technology
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,mysql,python,java,git,github,docker,postman,vercel,render&perline=10" />
-
-</div>
-
----
-
-## What I Work With
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### Frontend
-
-React.js  
-Next.js  
-TypeScript  
-JavaScript  
-Tailwind CSS
-
-</td>
-
-<td align="center" width="25%">
-
-### Backend
-
-Node.js  
-Express.js  
-FastAPI  
-REST APIs  
-Socket.IO
-
-</td>
-
-<td align="center" width="25%">
-
-### Database
-
-MongoDB  
-PostgreSQL  
-MySQL  
-Mongoose
-
-</td>
-
-<td align="center" width="25%">
-
-### AI & Tools
-
-Python  
-LangChain  
-AI APIs  
-Git  
-Docker
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Currently Learning
-
-<div align="center">
-
-`Java DSA` &nbsp; `System Design` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `AI Engineering`
-
-</div>
-
----
-
-<div align="center">
-
-### Let's Build Something Useful.
 
 <a href="https://aryan7050.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 &nbsp;
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;
-
 <a href="https://github.com/aryan-7050">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+---
+
+## TECHNICAL PROFILE
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### `01` — Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" />
+
+<br><br>
+
+**Java · JavaScript · TypeScript · Python · C · C++**
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02` — Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+
+<br><br>
+
+**HTML · CSS · React · Next.js · Tailwind CSS · Bootstrap**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `03` — Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+
+<br><br>
+
+**Node.js · Express.js · FastAPI · REST APIs · Socket.IO**
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04` — Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+
+<br><br>
+
+**MongoDB · PostgreSQL · MySQL · Mongoose**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `05` — AI & Intelligent Systems
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+**LangChain · Generative AI · AI APIs · Gemini · AI Integration**
+
+</td>
+
+<td width="50%" valign="top">
+
+### `06` — Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+
+<br><br>
+
+**Git · GitHub · Docker · Postman · VS Code**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## FULL-STACK TOOLKIT
 
 <div align="center">
 
-**Building → Learning → Improving → Shipping**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,mongodb,postgresql,mysql,python,java,git,github,docker,postman,vscode&perline=11" />
+
+</div>
+
+---
+
+## CORE COMPETENCIES
+
+<div align="center">
+
+`Frontend Development`
+
+`Backend Development`
+
+`REST API Development`
+
+`Database Design`
+
+`Authentication & Authorization`
+
+`Real-Time Applications`
+
+`AI Integration`
+
+`Responsive Web Design`
+
+`Git & Version Control`
+
+`Problem Solving`
+
+---
+
+## CURRENT FOCUS
+
+<table align="center">
+
+<tr>
+<td align="center">
+
+### Java + DSA
+
+Strengthening problem-solving and algorithmic thinking.
+
+</td>
+
+<td align="center">
+
+### Full-Stack
+
+Improving scalable MERN architecture and backend development.
+
+</td>
+
+<td align="center">
+
+### AI Engineering
+
+Integrating AI capabilities into real-world applications.
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## DEVELOPMENT MINDSET
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Ship
+```
+
+> I focus on understanding the technology behind the solution, not just using the technology.
+
+---
+
+## TECHNOLOGY AREAS
+
+```text
+Frontend        ████████████████████  React · Next.js · TypeScript
+Backend         ████████████████████  Node.js · Express · FastAPI
+Databases       ██████████████████░░  MongoDB · PostgreSQL · MySQL
+AI              ████████████████░░░░  Python · LangChain · AI APIs
+Programming     ███████████████████░  Java · JavaScript · Python
+Tools           ████████████████████  Git · GitHub · Docker · Postman
+```
+
+---
+
+## CURRENTLY LEARNING
+
+<div align="center">
+
+`Java DSA`   ·  
+`System Design`   ·  
+`Advanced TypeScript`   ·  
+`Next.js`   ·  
+`AI Engineering`
+
+</div>
+
+---
+
+<div align="center">
+
+## LET'S CONNECT
+
+<a href="https://aryan7050.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+ 
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/aryan-7050">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Code • Learn • Build • Evolve**
 
 </div>
