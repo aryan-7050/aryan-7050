@@ -1,202 +1,254 @@
+<div align="center">
+
 # ARYAN PATIL
 
-### Full-Stack Developer · MERN · AI Engineering
+### Full-Stack Developer crafting scalable web applications, real-time systems & AI-powered solutions.
 
-> I turn ideas into reliable, user-focused web applications.
-
-I'm a Computer Science & Engineering student focused on building **full-stack applications, real-time systems, and AI-powered products**.
-
-My current focus is writing better code, understanding system architecture, and turning academic projects into production-oriented applications.
+</div>
 
 ---
 
-## ABOUT
+## Projects
 
-```text
-Role        Full-Stack Developer
-Primary     MERN Stack
-Languages   Java · JavaScript · TypeScript · Python · SQL
-Interests   Web Development · AI · Real-Time Systems
-Currently   DSA with Java · Next.js · AI Integration
-```
+<table>
+<tr>
 
----
+<td width="50%" align="center">
 
-## ENGINEERING STACK
+### 🚌 AI Smart Bus Tracker
 
-**Frontend**
+A real-time public transportation platform with live bus tracking, route management, ETA prediction and an AI-powered assistant.
 
-`React.js` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+<br>
 
-**Backend**
+**Stack:**
 
-`Node.js` `Express.js` `FastAPI` `REST APIs` `Socket.IO`
+MERN · FastAPI · Python · LangChain · Socket.IO · Leaflet
 
-**Data**
+<br>
 
-`MongoDB` `PostgreSQL` `MySQL`
+<a href="YOUR_BUS_TRACKER_LIVE_LINK">Live Demo</a>
+&nbsp; | &nbsp;
+<a href="YOUR_BUS_TRACKER_GITHUB_LINK">GitHub</a>
 
-**AI**
+</td>
 
-`Python` `LangChain` `Generative AI` `AI APIs`
+<td width="50%" align="center">
 
-**Tools & Platforms**
+### 💰 PaisaVedh
 
-`Git` `GitHub` `Docker` `Postman` `Vercel` `Render`
+A full-stack personal finance platform designed to manage income, expenses and financial activities through an intuitive dashboard.
 
----
+<br>
 
-## SELECTED ENGINEERING WORK
+**Stack:**
 
-### 01 — Public Transport Intelligence
+React · Node.js · Express · MongoDB
 
-A real-time transportation platform designed around live bus tracking and intelligent ETA prediction.
+<br>
 
-**Engineering work**
+<a href="YOUR_PAISAVEDH_LIVE_LINK">Live Demo</a>
+&nbsp; | &nbsp;
+<a href="YOUR_PAISAVEDH_GITHUB_LINK">GitHub</a>
 
-* Real-time vehicle location updates
-* Interactive map-based tracking
-* Route management and path generation
-* ETA calculation
-* RESTful backend architecture
-* Socket.IO communication
-* AI assistant through a Python service
+</td>
 
-`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Leaflet` `FastAPI` `Python`
+</tr>
 
----
+<tr>
 
-### 02 — PaisaVedh
+<td width="50%" align="center">
 
-A finance management platform focused on organizing financial data into a simple and usable dashboard experience.
+### 🎫 Eventora
 
-**Engineering work**
+A modern event management application for discovering, organizing and managing events with a responsive user experience.
 
-* Authentication
-* Financial record management
-* REST API integration
-* Database operations
-* Responsive dashboard interface
+<br>
 
-`React` `Node.js` `Express` `MongoDB`
+**Stack:**
 
----
+MERN · REST API · JWT · MongoDB
 
-### 03 — Eventora
+<br>
 
-An event-focused web application built around a smooth user experience and structured backend services.
+<a href="YOUR_EVENTORA_LIVE_LINK">Live Demo</a>
+&nbsp; | &nbsp;
+<a href="YOUR_EVENTORA_GITHUB_LINK">GitHub</a>
 
-**Engineering work**
+</td>
 
-* User authentication
-* Event management
-* API-driven architecture
-* Responsive frontend
-* Database integration
+<td width="50%" align="center">
 
-`MERN`
+### 🛡️ Cyber Fraud Detection
 
----
+A full-stack application focused on identifying suspicious activities and presenting fraud detection results through a user-friendly interface.
 
-### 04 — Cyber Fraud Detection
+<br>
 
-A web-based system focused on processing suspicious activity and presenting detection results through an accessible interface.
+**Stack:**
 
-**Engineering work**
+MERN · Python · AI · REST APIs
 
-* Data processing
-* Detection workflow
-* Backend API integration
-* User-facing results
-* Full-stack architecture
+<br>
 
-`React` `Node.js` `Express` `MongoDB` `AI`
+<a href="YOUR_FRAUD_LIVE_LINK">Live Demo</a>
+&nbsp; | &nbsp;
+<a href="YOUR_FRAUD_GITHUB_LINK">GitHub</a>
 
----
+</td>
 
-## HOW I APPROACH DEVELOPMENT
+</tr>
 
-```text
-Problem
-   ↓
-Understand the requirement
-   ↓
-Design the solution
-   ↓
-Build the system
-   ↓
-Test & debug
-   ↓
-Optimize
-   ↓
-Deploy
-```
+<tr>
 
-I don't want to simply learn frameworks.
+<td width="50%" align="center">
 
-I want to understand **why a system works, how its components communicate, and how it can be improved.**
+### 🏥 MediPro
 
----
+A medical inventory and billing management system for handling medicine batches, stock quantities, pricing and PDF generation.
 
-## CURRENTLY BUILDING
+<br>
 
-**→ Stronger DSA fundamentals with Java**
+**Stack:**
 
-**→ Production-ready MERN applications**
+React · Node.js · Express · MongoDB · PDF
 
-**→ AI features inside traditional web applications**
+<br>
 
-**→ Better backend architecture**
+<a href="YOUR_MEDIPRO_LIVE_LINK">Live Demo</a>
+&nbsp; | &nbsp;
+<a href="YOUR_MEDIPRO_GITHUB_LINK">GitHub</a>
 
-**→ Next.js + TypeScript applications**
+</td>
+
+<td width="50%" align="center">
+
+### 🤖 AI Interview Platform
+
+An AI-powered interview application combining web technologies with intelligent interview assistance and automated evaluation.
+
+<br>
+
+**Stack:**
+
+MERN · FastAPI · Python · AI · WebRTC
+
+<br>
+
+<a href="YOUR_AI_INTERVIEW_LIVE_LINK">Live Demo</a>
+&nbsp; | &nbsp;
+<a href="YOUR_AI_INTERVIEW_GITHUB_LINK">GitHub</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## DEVELOPMENT PRINCIPLES
+## Technology
 
-| Principle   | Approach                          |
-| ----------- | --------------------------------- |
-| Simplicity  | Prefer understandable solutions   |
-| Scalability | Design beyond the demo            |
-| Security    | Never treat user data casually    |
-| Performance | Measure before optimizing         |
-| UX          | Functionality should feel natural |
-| Learning    | Build → Break → Debug → Improve   |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,mysql,python,java,git,github,docker,postman,vercel,render&perline=10" />
+
+</div>
 
 ---
 
-## GITHUB
+## What I Work With
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryan-7050&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" width="48%"/>
+<td align="center" width="25%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-7050&layout=compact&hide_border=true" width="40%"/>
+### Frontend
 
-</p>
+React.js  
+Next.js  
+TypeScript  
+JavaScript  
+Tailwind CSS
+
+</td>
+
+<td align="center" width="25%">
+
+### Backend
+
+Node.js  
+Express.js  
+FastAPI  
+REST APIs  
+Socket.IO
+
+</td>
+
+<td align="center" width="25%">
+
+### Database
+
+MongoDB  
+PostgreSQL  
+MySQL  
+Mongoose
+
+</td>
+
+<td align="center" width="25%">
+
+### AI & Tools
+
+Python  
+LangChain  
+AI APIs  
+Git  
+Docker
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## LET'S CONNECT
+## Currently Learning
 
-<p align="left">
+<div align="center">
+
+`Java DSA` &nbsp; `System Design` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `AI Engineering`
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Build Something Useful.
+
+<a href="https://aryan7050.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;
 
 <a href="https://github.com/aryan-7050">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://aryan7050.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+</div>
 
----
+<br>
 
-### `console.log("Keep building.");`
+<div align="center">
 
----
+**Building → Learning → Improving → Shipping**
+
+</div>
