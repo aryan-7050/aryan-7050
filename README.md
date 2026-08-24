@@ -1,248 +1,259 @@
-# 👋 Hi, I'm Aryan Patil
+<div align="center">
 
-### 🚀 Full-Stack Developer | MERN Stack | Java & DSA
+# ARYAN PATIL
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aryan-7050&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aryan-7050?label=Followers&style=flat" alt="followers" />
-</p>
+### Full-Stack Developer · MERN · AI · Backend Engineering
 
----
+Building modern web applications with scalable frontend, backend and AI technologies.
 
-## 👨‍💻 About Me
+<br>
 
-I'm a **Final-Year B.Tech Computer Science & Engineering student** passionate about building modern, scalable, and user-focused software applications.
+<a href="https://aryan7050.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/aryan-7050">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-I specialize in **MERN Stack development** and enjoy transforming ideas into complete web applications — from responsive interfaces and REST APIs to databases, authentication, real-time features, and cloud deployment.
-
-I'm also actively strengthening my **Java, Data Structures & Algorithms, SQL, and problem-solving skills** to prepare for software engineering roles.
-
-* 🎓 B.Tech Computer Science & Engineering
-* 💻 MERN Stack Developer
-* ☕ Practicing Java & DSA
-* 🌐 Interested in Full-Stack & Software Engineering
-* 🧠 Interested in scalable systems and real-world problem solving
-* 🚀 Building and deploying real-world projects
-* 📚 Continuously learning new technologies
-* 🎯 Currently preparing for software engineering placements
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## TECHNICAL PROFILE
 
-### 💻 Languages
+<table>
+<tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,sql" />
-</p>
+<td width="50%" valign="top">
 
-### 🎨 Frontend
+### `01` — Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" />
 
-### ⚙️ Backend
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+**Java · JavaScript · TypeScript · Python · C · C++**
 
-### 🗄️ Databases
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+<td width="50%" valign="top">
 
-### ☁️ Tools & Platforms
+### `02` — Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,render,vscode,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 
----
+<br><br>
 
-## 🚀 Featured Projects
+**HTML · CSS · React · Next.js · Tailwind CSS · Bootstrap**
 
-### 🚌 Public Transport Tracking System
+</td>
 
-A real-time public bus tracking platform designed for city transportation.
+</tr>
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • Socket.io • Leaflet.js • REST API
+<tr>
 
-**Key Features**
+<td width="50%" valign="top">
 
-* 🗺️ Real-time bus tracking
-* 🚌 Multiple route management
-* 📍 Interactive maps
-* ⏱️ ETA calculation
-* 🔄 Real-time updates using Socket.io
-* 🎫 Bus booking functionality
-* 🔐 Authentication and authorization
-* 📱 Responsive user interface
+### `03` — Backend
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
-### 📋 Task Management System
+<br><br>
 
-A modern full-stack task management application for organizing tasks and improving productivity.
+**Node.js · Express.js · FastAPI · REST APIs · Socket.IO**
 
-**Tech:** Next.js • TypeScript • MongoDB • Mongoose • JWT • Tailwind CSS
+</td>
 
-**Key Features**
+<td width="50%" valign="top">
 
-* 🔐 User registration and authentication
-* 📋 Task creation and management
-* 📅 Calendar-based task organization
-* 👤 Profile management
-* ⚙️ Settings
-* 🌙 Light/Dark theme
-* 📊 Dashboard
-* ☁️ Cloud deployment
+### `04` — Databases
 
-🔗 **Live Demo:** https://able-space-assessment-nine.vercel.app/
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 
-🔗 **Repository:** https://github.com/aryan-7050/able-space-assessment
+<br><br>
 
----
+**MongoDB · PostgreSQL · MySQL · Mongoose**
 
-### 🛡️ Cyber Fraud Detection System
+</td>
 
-A web-based platform designed to help identify and analyze potentially fraudulent activities.
+</tr>
 
-**Tech:** MERN Stack • Machine Learning • REST APIs • MongoDB
+<tr>
 
-**Focus**
+<td width="50%" valign="top">
 
-* Fraud detection
-* Data analysis
-* User-friendly dashboards
-* API integration
-* Secure data handling
+### `05` — AI & Intelligent Systems
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+**LangChain · Generative AI · AI APIs · Gemini · AI Integration**
+
+</td>
+
+<td width="50%" valign="top">
+
+### `06` — Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+
+<br><br>
+
+**Git · GitHub · Docker · Postman · VS Code**
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-### 🤖 AI Interview Platform
+## FULL-STACK TOOLKIT
 
-An AI-powered interview platform designed to simulate technical interviews and provide automated feedback.
+<div align="center">
 
-**Tech:** MERN Stack • Python • FastAPI • TensorFlow • AI APIs • WebRTC
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,mongodb,postgresql,mysql,python,java,git,github,docker,postman,vscode&perline=11" />
 
-**Focus**
-
-* AI-powered interviews
-* Technical question generation
-* Interview evaluation
-* Real-time communication
-* Performance analysis
+</div>
 
 ---
 
-## 🧩 Problem Solving
+## CORE COMPETENCIES
 
-I'm consistently practicing **Data Structures & Algorithms using Java**.
+<div align="center">
 
-### Topics I'm currently strengthening
+`Frontend Development`
 
-* Arrays
-* Strings
-* Linked Lists
-* Stack & Queue
-* Hashing
-* Recursion
-* Binary Trees
-* Binary Search Trees
-* Heaps
-* Sorting & Searching
-* Graphs
-* Dynamic Programming
-* Greedy Algorithms
-* SQL
+`Backend Development`
 
-> 💡 My goal is not just to solve problems, but to understand the underlying patterns and write efficient, maintainable solutions.
+`REST API Development`
 
----
+`Database Design`
 
-## 📊 GitHub Activity
+`Authentication & Authorization`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-7050&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-7050&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+`Real-Time Applications`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryan-7050&theme=tokyonight&hide_border=true" />
-</p>
+`AI Integration`
+
+`Responsive Web Design`
+
+`Git & Version Control`
+
+`Problem Solving`
 
 ---
 
-## 🏆 Certifications & Learning
+## CURRENT FOCUS
 
-* 🎓 MERN Stack Development Certification
-* 📊 Deloitte — Data Analytics Job Simulation
-* 🤖 GenAI Powered Data Analytics Job Simulation
-* 🌐 Web Development Internship / Training Experience
-* ☕ Java & DSA Interview Preparation
+<table align="center">
+
+<tr>
+<td align="center">
+
+### Java + DSA
+
+Strengthening problem-solving and algorithmic thinking.
+
+</td>
+
+<td align="center">
+
+### Full-Stack
+
+Improving scalable MERN architecture and backend development.
+
+</td>
+
+<td align="center">
+
+### AI Engineering
+
+Integrating AI capabilities into real-world applications.
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 🎯 2026–27 Goals
+## DEVELOPMENT MINDSET
 
 ```text
-✅ Build production-quality projects
-✅ Strengthen Java + DSA
-✅ Improve SQL & DBMS fundamentals
-✅ Master MERN / Next.js development
-✅ Learn system design fundamentals
-✅ Contribute to open-source projects
-🎯 Secure a Software Engineering / Full-Stack Development role
+Learn
+  ↓
+Build
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Ship
+```
+
+> I focus on understanding the technology behind the solution, not just using the technology.
+
+---
+
+## TECHNOLOGY AREAS
+
+```text
+Frontend        ████████████████████  React · Next.js · TypeScript
+Backend         ████████████████████  Node.js · Express · FastAPI
+Databases       ██████████████████░░  MongoDB · PostgreSQL · MySQL
+AI              ████████████████░░░░  Python · LangChain · AI APIs
+Programming     ███████████████████░  Java · JavaScript · Python
+Tools           ████████████████████  Git · GitHub · Docker · Postman
 ```
 
 ---
 
-## 💼 What I'm Looking For
+## CURRENTLY LEARNING
 
-I'm currently interested in opportunities related to:
+<div align="center">
 
-* 💻 Software Engineer
-* 🌐 Full-Stack Developer
-* ⚛️ React Developer
-* 🟢 MERN Stack Developer
-* ☕ Java Developer
-* 🚀 Graduate Software Engineer
+`Java DSA`   ·  
+`System Design`   ·  
+`Advanced TypeScript`   ·  
+`Next.js`   ·  
+`AI Engineering`
 
-I'm especially interested in teams where I can **learn from experienced developers, contribute to real-world products, and grow as a software engineer.**
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-<p align="left">
-
-<a href="https://github.com/aryan-7050">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+## LET'S CONNECT
 
 <a href="https://aryan7050.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+ 
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+ 
 
----
+<a href="https://github.com/aryan-7050">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-### 💡 Developer Philosophy
+<br><br>
 
-> **"Build. Learn. Improve. Repeat."**
+**Code • Learn • Build • Evolve**
 
-I believe great software comes from continuously learning, solving real problems, writing clean code, and improving through feedback.
-
----
-
-⭐ **If you find something useful in my repositories, feel free to star the project!**
-
-### 🚀 Thanks for visiting my profile!
+</div>
