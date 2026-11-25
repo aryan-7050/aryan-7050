@@ -8,7 +8,7 @@ Building modern web applications with scalable frontend, backend and AI technolo
 
 <br>
 
-<a href="[https://aryan7050.vercel.app/](https://portfolio-7fei.vercel.app/)">
+<a href="https://portfolio-7fei.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
